@@ -5,7 +5,7 @@ Welcome to Word Clone! This project is a Java implementation of a basic word pro
 
 ## Table of Contents
 
-- [Demo](#demo)
+- [Screenshot](#screenshot)
 - [Features](#features)
 - [Run Locally](#run-locally)
 - [Usage](#usage)
@@ -13,9 +13,8 @@ Welcome to Word Clone! This project is a Java implementation of a basic word pro
 - [Customisation](#customisation)
 - [Contributing](#contributing)
 
-## Demo
-
-Check out the live demo of the Word [here](#).
+## Screenshot
+![Alt Text](/screenshot.png?raw=true "Optional Title")
 
 ## Features
 
