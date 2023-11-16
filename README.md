@@ -25,7 +25,7 @@ Welcome to Word Clone! This project is a Java implementation of a basic word pro
 
 ## Run Locally
 
-To run the Quiz locally, follow these steps:
+To run the Word locally, follow these steps:
 
 1. Clone the repository to your local machine.
 
